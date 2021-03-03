@@ -14,4 +14,4 @@ I have implemented a graphical user interface for a user with options to start a
 4)Red- This button will change the color of our marker with red color
 
 5)Save- On selecting this button the current text on the paint interface is saved as an image to be passed to our model for text extraction. This will also work when we will close program<br><br>
-<br><br><img src="virtual notepad/HTR/doc/Picture1.png" width=600 height=300/>
+<br><br>

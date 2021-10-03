@@ -1,6 +1,6 @@
 # virtual-notepad
 <p>
-In “Virtual Notepad” the user will wave in front of the camera i.e make gestures and try to write something in the air. The system will detect the text the user is trying to draw. First it will detect the gesture with the movement of a bottle cap held in the hand and then with that captured gesture it will generate an image using openCV and with the help of the image generated it will recognize the text. The gesture detection part will be performed using openCV while text recognition part will be based on CNN(Convolutional Neural Networks) and RNN(Recurrent Neural Network).
+In “Virtual Notepad” the user will wave in front of the camera i.e make gestures and try to write something in the air . The system will detect the text the user is trying to draw. First it will detect the gesture with the movement of a bottle cap held in the hand and then with that captured gesture it will generate an image using openCV and with the help of the image generated it will recognize the text. The gesture detection part will be performed using openCV while text recognition part will be based on CNN(Convolutional Neural Networks) and RNN(Recurrent Neural Network).
 </p><br>
 <p>
 I have implemented a graphical user interface for a user with options to start and close the notepad . When notepad is started a user is presented with an interface for drawing and a paint interface where the gesture is being printed simultaneously. The interface has 5 buttons as described below-
